@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files 
+@import "~bootstrap/dist/css/bootstrap.min.css";*/
+.even {
+    background-color: #067036;
+    color: #000;
+}
+
+.odd {
+    background-color: #6ac2ee;
+    color: #fff;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
